@@ -27,11 +27,12 @@ You need to know:
 Preview
 ---------------
 
-![Screenshot_1635324295](https://user-images.githubusercontent.com/89562897/139032390-d04df3ad-bdf5-42d1-8026-2ca0506a3135.png)
-![Screenshot_1635324302](https://user-images.githubusercontent.com/89562897/139032422-7040d1f7-0ee9-4cf2-8428-35f647e67cef.png)
-![Screenshot_1635324332](https://user-images.githubusercontent.com/89562897/139032445-3ec74ac0-bf74-4ce1-8644-bab0db8985d1.png)
-![Screenshot_1635324382](https://user-images.githubusercontent.com/89562897/139032451-886f8f3c-5091-4212-af24-e8db538bdb6c.png)
-![Screenshot_1635324393](https://user-images.githubusercontent.com/89562897/139032472-70495e16-f46b-4fbb-be92-61361c2c1e15.png)
+![Screenshot_1635324295](https://user-images.githubusercontent.com/89562897/139033452-d6136504-a97a-4a07-897f-9e0f4a11e0c3.png)
+![Screenshot_1635324302](https://user-images.githubusercontent.com/89562897/139033468-5e0251ff-64b8-4ec1-aa60-10f0bb5f28b0.png)
+![Screenshot_1635324332](https://user-images.githubusercontent.com/89562897/139033483-c3e45b5e-0ffa-4e05-a8f9-3164ddc8a51b.png)
+![Screenshot_1635324382](https://user-images.githubusercontent.com/89562897/139033490-b366fb72-7a4e-4903-bdac-24d9a87815af.png)
+![Screenshot_1635324393](https://user-images.githubusercontent.com/89562897/139033510-a18e32ee-3ab1-453a-8d9a-1193a88aa9af.png)
+
 
 
 Getting started
