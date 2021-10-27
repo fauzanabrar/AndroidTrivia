@@ -24,6 +24,17 @@ You need to know:
 - How to open, build, and run apps with Android Studio.
 - How to work with layouts.
 
+Preview
+---------------
+
+![Uploading Screenshot_1635![Screenshot_1635324302](https://user-images.githubusercontent.com/89562897/139032252-9e94d3cb-adc0-4655-a13c-a69220fd01bd.png)
+![Screenshot_1635324332](https://user-images.githubusercontent.com/89562897/139032256-0ae8ad21-995e-485d-bc49-e46dfaf14e18.png)
+![Screenshot_1635324382](https://user-images.githubusercontent.com/89562897/139032263-6d166a4c-19d7-4733-a9f7-91045ddacb6c.png)
+![Screenshot_1635324393](https://user-images.githubusercontent.com/89562897/139032267-fae824b1-d9a5-4f36-ae42-36d92d0b8c6f.png)
+324295.png…]()
+
+
+
 Getting started
 ---------------
 
